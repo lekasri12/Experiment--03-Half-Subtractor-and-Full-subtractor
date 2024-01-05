@@ -26,29 +26,34 @@ A full subtractor is a combinational circuit that performs subtraction involving
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure
-
-
-
 Write the detailed procedure here 
 
-
 ## Program:
-/*
+
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
+Developed by: LEKA SRI G
+RegisterNumber: 212223100025 
+
 
 ## Output:
+![286814959-675998da-6c6e-4585-9b05-5d57f67d408e](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/02f6266f-d007-4c18-bbff-2c60af08ab6d)
+![286814884-753c3337-033b-443c-9356-12d04898d9a0](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/f989d4f6-476f-4526-9067-974ffbb7b487)
+
 
 ## Truthtable
-
-
+![286815021-7698f76d-9fd5-4281-a957-b1c1d1456b02](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/1cf80c98-e735-4a78-bc4d-fc06ca3ee457)
+![286815060-e57ffc4c-ff7f-491f-bc40-8830451b2644](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/f238bf17-00f0-4b2a-884b-a8826be7a1ed)
 
 ##  RTL realization
+![286815151-9c03c8ad-c711-4284-8a10-1f5c447bda9e](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/52e6b847-1f41-4d09-8f9f-224df7a0675c)
+![286815193-ed07fe5f-e061-4c0a-bdc4-25378e74390b](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/7a388afb-0864-412a-91fc-c130a35ce326)
+
 
 
 ## Timing diagram 
+![286815261-cb37605e-2769-47de-bfaa-8efdf8714ba0](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/8002db4a-6d16-4ae4-a0d4-e571690fd91d)
+![286815286-73092ebc-e14d-4267-8427-cf49c275044c](https://github.com/lekasri12/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/149037427/9810e3e5-88a7-4b84-8502-e5e7f0227ab3)
+
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
