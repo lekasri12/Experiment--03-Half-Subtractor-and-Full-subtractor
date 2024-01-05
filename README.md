@@ -19,6 +19,7 @@ Sum = X'Y+XY' = X ⊕ Y
 Carry=X'Y
 
 ## Full Subtractor
+
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow. 
 ![full-subtractor6](https://user-images.githubusercontent.com/36288975/166112541-24c68359-3de8-4674-ae22-8272ffc385ed.png)
 
